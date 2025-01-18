@@ -8,7 +8,7 @@ on:
       - 'docs/**'
       - 'mirai-console/docs/**'
       - '**/*.md'
-
+  workflow_dispatch:
 
 jobs:
   initialize-sonatype-stage:
