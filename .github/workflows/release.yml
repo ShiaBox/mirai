@@ -147,7 +147,7 @@ jobs:
 
 #
 #  close-repository:
-#    runs-on: macos-12
+#    runs-on: macos-14
 #    needs:
 #      - publish-others
 #      - publish-core-native
